@@ -1,0 +1,11 @@
+=== Soal dari Buku Pemrograman Kompetitif Dasar ===
+Buku Pemrograman Kompetitif Dasar
+(https://osn.toki.id/arsip/pemrograman-kompetitif-dasar.pdf)
+
+@ Contoh Soal 1.1 Lampu dan Tombol Hal. 2
+Jawaban: lampuDanTombol.cpp
+
+--------------------------------------------------------
+=== Soal dari Situs TLX ===
+++ Pertahanan Robot
+https://tlx.toki.id/problems/troc-11/A
